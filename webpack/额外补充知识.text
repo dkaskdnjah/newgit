@@ -1,0 +1,4 @@
+1.了解package.json中 browserslist 所有配置
+2.了解语法检查规则 使用airbnb ==> github官网 ==> explore ==> topics ==> airbnb
+   依赖 npmjs官网 ==> 搜索eslint-config-airbnb(包含react代码)，所以eslint-config-airbnb-base
+2.学完node 回到 20.缓存/25.PWA  搭建node服务器 

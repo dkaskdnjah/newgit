@@ -1,0 +1,18 @@
+/*!***************************************************************************************!*\
+  !*** css ../node_modules/_css-loader@6.5.1@css-loader/dist/cjs.js!./src/css/box1.css ***!
+  \***************************************************************************************/
+#box1{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    display: flex;
+    backface-visibility: hidden;
+}
+/*!***************************************************************************************!*\
+  !*** css ../node_modules/_css-loader@6.5.1@css-loader/dist/cjs.js!./src/css/box2.css ***!
+  \***************************************************************************************/
+#box2{
+    width: 200px;
+    height: 200px;
+    background-color: plum;
+}

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk=globalThis.webpackChunk||[]).push([[43],{4891:(l,o,s)=>{s.r(o);var e=s(9677),a=s.n(e);console.log("test文件被加载拉: "),console.log("$: ",a())}}]);
